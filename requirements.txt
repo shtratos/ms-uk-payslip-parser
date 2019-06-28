@@ -1,0 +1,6 @@
+-i https://pypi.org/simple
+chardet==3.0.4
+pdfminer.six==20181108
+pycryptodome==3.8.2
+six==1.12.0
+sortedcontainers==2.1.0

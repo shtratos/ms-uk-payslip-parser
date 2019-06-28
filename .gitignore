@@ -102,3 +102,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+.idea
+text_payslips/*.txt
+/payslips-month-columns.csv
+/payslips-month-rows.csv
