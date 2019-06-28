@@ -69,6 +69,6 @@ pipenv install
 
 ## Feedback
 
-Create an issue if you encounter a problem or have a suggestions.
+Create an issue if you encounter a problem or have a suggestion.
 Or ping me on Teams.
 
